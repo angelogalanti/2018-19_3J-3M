@@ -61,6 +61,7 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - esercizio [1447](https://codepen.io/angelogalanti/pen/GPRVqX), qui la [soluzione](https://codepen.io/angelogalanti/pen/oJNKLo)
 - esercizio [1192](https://codepen.io/angelogalanti/pen/NeGeNM), qui la [soluzione](https://codepen.io/angelogalanti/pen/maeaPm)
 - esercizio [1376](https://codepen.io/angelogalanti/pen/pqgBOq), qui la [soluzione](https://codepen.io/angelogalanti/pen/roxbEN)
+- **esercizio** [1480](https://codepen.io/angelogalanti/pen/LqVgvN), qui la [soluzione](https://codepen.io/angelogalanti/pen/daogrp)
 
 ## Rappresentazione delle informazioni
 ### Transistor
