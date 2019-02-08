@@ -26,21 +26,11 @@ Repository di TPSIT delle classi 3J e 3M
 ```
 - [esempio di utilizzo dell'attributo id in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_id)
 - [esempio di utilizzo dell'attributo class in CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_class)
-- [tutorial HTML su freecodecamp](https://www.freecodecamp.org/)
-- [**formulario HTML**](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/freecodecamp%20-%20basic%20HTML%20and%20HTML5.html)
-
+- [cheatsheet HTML](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/freecodecamp%20-%20basic%20HTML%20and%20HTML5.html)
 
 ### Esercizi HTML
-#### Esercizio 1
-Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/HTML%20es1.png).<br/>
-Ci sono dei tag non ancora visti su freecodecamp: em, strong, video.<br/>
-Usate questo sito per capire come si utilizzano: http://devdocs.io/html/ <br/>
-Informazioni aggiuntive per risolvere l'esercizio. <br/>
-Link immagine: https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg <br/>
-Link video: https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4 <br/>
-
-#### Esercizio 2
-Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/HTML%20es2.png).<br/>
+- [esercizio](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/HTML%20es1.png)
+- [esercizio](https://github.com/angelogalanti/2018-19_3J-3M/blob/master/HTML%20es2.png)
 
 ## CSS
 ### Teoria
@@ -57,7 +47,6 @@ Ricreare in HTML la pagina web dell'immagine disponibile a questo [link](https:/
 - esercizio [1338](https://codepen.io/angelogalanti/pen/aQQmVE), qui la [soluzione](https://codepen.io/angelogalanti/pen/JeeRKO)
 - esercizio [1560](https://codepen.io/angelogalanti/pen/BGbOMq), qui la [soluzione](https://codepen.io/angelogalanti/pen/vQPzbp)
 - esercizio [1519](https://codepen.io/angelogalanti/pen/wQOYGZ), qui la [soluzione](https://codepen.io/angelogalanti/pen/mQozPG)
-- **soluzione della verifica** [1492](https://codepen.io/angelogalanti/pen/KbPwYX)
 - esercizio [1447](https://codepen.io/angelogalanti/pen/GPRVqX), qui la [soluzione](https://codepen.io/angelogalanti/pen/oJNKLo)
 - esercizio [1192](https://codepen.io/angelogalanti/pen/NeGeNM), qui la [soluzione](https://codepen.io/angelogalanti/pen/maeaPm)
 - esercizio [1376](https://codepen.io/angelogalanti/pen/pqgBOq), qui la [soluzione](https://codepen.io/angelogalanti/pen/roxbEN)
