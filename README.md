@@ -53,7 +53,8 @@ Repository di TPSIT delle classi 3J e 3M
 - esercizio [1480](https://codepen.io/angelogalanti/pen/LqVgvN), qui la [soluzione](https://codepen.io/angelogalanti/pen/daogrp)
 ### Esercizi 2019
 - esercizio [1546](https://codepen.io/angelogalanti/pen/QYZmYZ), qui la [soluzione](https://codepen.io/angelogalanti/pen/ErdEra)
-
+- esercizio [1255](https://codepen.io/angelogalanti/pen/QYXqWv), qui la [soluzione](https://codepen.io/angelogalanti/pen/vbqeYB)
+    
 ## Rappresentazione delle informazioni
 ### Transistor
 - [Transistors - The Invention That Changed The World](https://www.youtube.com/watch?v=OwS9aTE2Go4)
