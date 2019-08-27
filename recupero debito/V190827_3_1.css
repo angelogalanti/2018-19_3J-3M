@@ -1,0 +1,54 @@
+/*
+LEGGI BENE LE SEGUENTI ISTRUZIONI
+
+Copia ed incolla il codice HTML ed il codice CSS
+su codepen.io e riproduci il più fedelmente possibile
+modificando solo il codice CSS l'immagine in allegato
+disponibile nel file V190827_3_1.png
+Una volta terminato l'esercizio copia il codice CSS
+(non il codice HTML) nel blocco note e crea un file
+chiamato cognome.css
+
+CONSEGNA AL LINK DISPONIBILE SU GITHUB
+*/
+
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400);
+.snip1423 {
+  font-family: 'Oswald', Arial, sans-serif;
+  position: relative;
+  background: #ffffff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.snip1423 * {
+  -webkit-box-sizing: padding-box;
+  box-sizing: padding-box;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.snip1423 img {
+}
+.snip1423 figcaption {
+}
+.snip1423 h3,
+.snip1423 p {
+}
+.snip1423 h3 {
+}
+.snip1423 p {
+}
+.snip1423 .price {
+}
+.snip1423 .price s {
+}
+.snip1423 i {
+  -webkit-transform: translate(-50%, 50%);
+  transform: translate(-50%, 50%);
+  background-color: #666666;
+}
+.snip1423 a {
+}
